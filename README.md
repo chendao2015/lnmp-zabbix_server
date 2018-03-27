@@ -20,12 +20,3 @@ chmod +x lnmp.sh
 chmod +x zabbix_server.sh
 ./zabbix_server.sh
 ```
-
-## 说明
-#### mysql默认配置的root用户密码是Changqin2018.
-#### mysql端口是默认的3306
-#### zabbix数据库默认为zabbix
-#### zabbix数据库用户默认为zabbix
-#### zabbix数据库密码默认为ChangqinZabbix2018.
-
-#### zabbix的web管理界面帐号为Admin，密码为zabbix
