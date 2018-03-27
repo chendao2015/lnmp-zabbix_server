@@ -16,3 +16,7 @@ chmod +x lnmp.sh
 ```
 
 #### 2、部署zabbix-server
+```
+chmod +x zabbix_server.sh
+./zabbix_server.sh
+```
